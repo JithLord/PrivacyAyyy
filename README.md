@@ -23,3 +23,8 @@ Link Shortener
 
 Create Reactive Resume
 - https://rxresu.me/
+
+Courses
+- codecademy.com (Hands On with a lots of excerices)
+- udemy.com (Has a lot of courses on sale)
+- Coursera.com (Courses offered by Universities)
