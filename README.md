@@ -17,3 +17,9 @@ URL Redirect Checker
 Check if your data was breached
 - https://haveibeenpwned.com/
 - https://haveibeenpwned.com/Passwords
+
+Link Shortener 
+- https://bitly.com/
+
+Create Reactive Resume
+- https://rxresu.me/
