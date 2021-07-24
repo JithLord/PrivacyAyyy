@@ -25,14 +25,14 @@ Create Reactive Resume
 - https://rxresu.me/
 
 Courses
-- codecademy.com (Hands On with a lots of excerices)
-- udemy.com (Has a lot of courses on sale)
-- Coursera.com (Courses offered by Universities)
+- www.codecademy.com (Hands On with a lots of excerices)
+- www.udemy.com (Has a lot of courses on sale)
+- www.coursera.com (Courses offered by Universities)
 
 View EXIF data
 - exif.regex.info 
 - www.exifdata.com (No captcha required)
 
 Article Spinning
-- spinbot.com
-- quillbot.com
+- www.spinbot.com
+- www.quillbot.com
