@@ -5,7 +5,7 @@ Temporary Email </br>
 - https://temp-mail.org/            (Receive Emails only)
 - https://www.guerrillamail.com/    (Send and Receive Emails, with custom name)
 
-Hide your real email
+Hide your real email (and relay an email to your account)
 - https://relay.firefox.com/
 
 Security Check on website and Files </br>
@@ -28,3 +28,11 @@ Courses
 - codecademy.com (Hands On with a lots of excerices)
 - udemy.com (Has a lot of courses on sale)
 - Coursera.com (Courses offered by Universities)
+
+View EXIF data
+- exif.regex.info 
+- www.exifdata.com (No captcha required)
+
+Article Spinning
+- spinbot.com
+- quillbot.com
