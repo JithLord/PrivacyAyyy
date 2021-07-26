@@ -1,6 +1,7 @@
 # PrivacyAyyy
-A curated list of websites I personally use and Love. Please do not misuse any of the websites.
+A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites.
 
+## Websites </br>
 ### Temporary Email </br>
 - https://temp-mail.org/            (Receive Emails only)
 - https://www.guerrillamail.com/    (Send and Receive Emails, with custom name)
@@ -30,9 +31,17 @@ A curated list of websites I personally use and Love. Please do not misuse any o
 - www.coursera.com (Courses offered by Universities)
 
 ### View EXIF data
-- exif.regex.info 
+- exif.regex.info (Currently doesn't support HTTPs version)
 - www.exifdata.com (No captcha required)
 
 ### Article Spinning
 - www.spinbot.com
 - www.quillbot.com
+
+## Extensions (for Firefox) </br>
+- uBlock Origin
+- Dark Reader 
+- Privacy Badger
+- Firefox Relay
+- Bitwarden
+- Popup Blocker (strict) (My personal favourite)
