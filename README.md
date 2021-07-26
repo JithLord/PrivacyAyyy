@@ -1,5 +1,5 @@
 # PrivacyAyyy
-A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites.
+A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites. </br>
 Most incognito options on Web Browsers just hide your History (and few prevents trackers). 
 
 ## Websites </br>
