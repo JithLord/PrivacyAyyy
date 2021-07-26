@@ -2,7 +2,8 @@
 A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites. </br>
 Most incognito options on Web Browsers just hide your History (and few prevents hides trackers). 
 
-## Websites </br>
+# Websites </br>
+## Email
 ### Temporary Email </br>
 - https://temp-mail.org/            (Receive Emails only)
 - https://www.guerrillamail.com/    (Send and Receive Emails, with custom name)
@@ -10,7 +11,7 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 ### Hide your real email (and relay emails to your account)
 - https://relay.firefox.com/
 
-### Security Check on website and Files </br>
+### Security Check on URLs and Files </br>
 - https://www.virustotal.com/gui/
 
 ### URL Redirect Checker
