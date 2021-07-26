@@ -5,7 +5,7 @@ Temporary Email </br>
 - https://temp-mail.org/            (Receive Emails only)
 - https://www.guerrillamail.com/    (Send and Receive Emails, with custom name)
 
-Hide your real email (and relay an email to your account)
+Hide your real email (and relay emails to your account)
 - https://relay.firefox.com/
 
 Security Check on website and Files </br>
