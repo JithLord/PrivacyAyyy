@@ -1,5 +1,6 @@
 # PrivacyAyyy
 A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites.
+Most incognito options on Web Browsers just hide your History (and few prevents trackers). 
 
 ## Websites </br>
 ### Temporary Email </br>
@@ -45,3 +46,4 @@ A curated list of websites and Extensions I personally use and Love. Please do n
 - Firefox Relay
 - Bitwarden
 - Popup Blocker (strict) (My personal favourite)
+- DuckDuckGo Privacy Extension
