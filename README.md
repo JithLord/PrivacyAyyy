@@ -40,6 +40,9 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 - www.spinbot.com
 - www.quillbot.com
 
+### Custom Motion Graphics 
+- www.jitter.video
+
 ## Extensions (for Firefox) </br>
 - uBlock Origin
 - Dark Reader 
