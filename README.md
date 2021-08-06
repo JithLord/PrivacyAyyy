@@ -33,16 +33,16 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 - www.coursera.com (Courses offered by Universities)
 
 ### View EXIF data
-- exif.regex.info (Currently doesn't support HTTPs version)
+- https://exif.regex.info (Currently doesn't support HTTPs version)
 - www.exifdata.com (No captcha required)
 
 ### Article Spinning
 - www.spinbot.com
 - www.quillbot.com
-- paraphrasing-tool.com
+- www.paraphrasing-tool.com
 
 ### Design Almost anything
-- wwww.canva.com
+- www.canva.com
 
 ### Custom Motion Graphics 
 - www.jitter.video
