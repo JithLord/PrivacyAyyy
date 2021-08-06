@@ -39,9 +39,14 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 ### Article Spinning
 - www.spinbot.com
 - www.quillbot.com
+- paraphrasing-tool.com
+
+### Design Almost anything
+- wwww.canva.com
 
 ### Custom Motion Graphics 
 - www.jitter.video
+- www.canva.com
 
 ## Extensions (for Firefox) </br>
 - uBlock Origin
