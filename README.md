@@ -56,4 +56,6 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 - Bitwarden
 - Popup Blocker (strict) (My personal favourite)
 - DuckDuckGo Privacy Extension
+## Plagarism Check
+- https://www.check-plagiarism.com/
 #### Note: Most free VPNs log your data, use with caution
