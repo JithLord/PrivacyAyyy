@@ -1,6 +1,6 @@
 # PrivacyAyyy
 A curated list of websites and Extensions I personally use and Love. Please do not misuse any of the websites. </br>
-Most incognito options on Web Browsers just hide your History (and few prevents hides trackers). 
+Most incognito options on Web Browsers just hide your History (and few prevents/hides trackers). 
 
 # Websites </br>
 ## Email
@@ -30,12 +30,12 @@ Most incognito options on Web Browsers just hide your History (and few prevents 
 - https://rxresu.me/
 
 ### Courses
-- www.codecademy.com (Hands On with a lots of excerices)
+- www.codecademy.com (Hands On with lots of excerices)
 - www.udemy.com (Has a lot of courses on sale)
 - www.coursera.com (Courses offered by Universities)
 
 ### View EXIF data
-- https://exif.regex.info (Currently doesn't support HTTPs version)
+- https://exif.regex.info (Currently doesn't support HTTPS version)
 - www.exifdata.com (No captcha required)
 
 ### Article Spinning
