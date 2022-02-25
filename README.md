@@ -50,6 +50,9 @@ Most incognito options on Web Browsers just hide your History (and few prevents/
 - www.jitter.video
 - www.canva.com
 
+### PDF conversion, reader and commands
+- https://mupdf.com/
+
 ## Extensions (for Firefox) </br>
 - uBlock Origin
 - Dark Reader 
