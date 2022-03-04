@@ -64,3 +64,7 @@ Most incognito options on Web Browsers just hide your History (and few prevents/
 ## Plagarism Check
 - https://www.check-plagiarism.com/
 #### Note: Most free VPNs log your data, use with caution
+
+## Resources
+### Intelligent password brute forcer
+- https://github.com/D4Vinci/elpscrk
